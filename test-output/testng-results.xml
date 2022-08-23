@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4269" started-at="2022-08-22T20:30:40Z" finished-at="2022-08-22T20:30:44Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4269" started-at="2022-08-22T20:30:40Z" finished-at="2022-08-22T20:30:44Z">
+      <class name="apiChaining.End2EndTest">
+        <test-method status="PASS" signature="test1()[pri:0, instance:apiChaining.End2EndTest@123f1134]" name="test1" duration-ms="4188" started-at="2022-08-22T20:30:40Z" finished-at="2022-08-22T20:30:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- apiChaining.End2EndTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
